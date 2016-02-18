@@ -15,3 +15,8 @@ different branches will allow many developers to work on
 the same project at once without committing too early and 
 possibly creating new bugs because everything was done on
 the master branch.
+The diagram gives me a visual of the branches that make
+it easier to understand how they all relate one another.
+Similarly, I visualize branches to reconnect at some
+point in time to the master branch which when you visualize
+can be seen as the tree trunk.
