@@ -1,0 +1,27 @@
+Viewing the two files using diff was great for someone like me who has spent
+too much time viewing old and new files and comparing and contrasting like we 
+live in the dark ages.
+Being able to view all saved versions of a file will give you a much easier
+way of debugging and possibly refactoring.
+Pros of saving manually can be helpful if you know that you would like to
+save at the end of a specific edit but can prove costly because it relies
+on the human mind instead of an automatic save as in Google Docs. Essentially,
+manual saving's pros and cons are the opposite of automatic saving. They are
+sort of opposite mirror images of one another.
+In a program like Google Docs, separation is better for security and usually
+there isn't a great need to collaborate on documents to cross-compare. Or
+you can always look at other versions from before. Whereas in Git, the need
+to commit multiple files is important if the files have a strong interrelation
+such as middleware scripts that tie into databases or front end components 
+that rely heavily on one another to not break.
+Didn't realize that I could use the down arrow to scroll down and see more
+git commit id's and similarly in git log. Very interesting to see how it
+makes it much easier to work with others.
+It will ensure that I will not be afraid of making changes that can lead
+to bugs because I know that I will be able to go back and check git log
+to find the potential bugs.
+I view Git in a completely different way now and I am truly excited to
+use it going forward. It is always so rewarding to find out what 
+a program can actually do for you when you overcome your fears and decide
+to take a step back to take many steps forward later on. I already feel
+like a better programmer!

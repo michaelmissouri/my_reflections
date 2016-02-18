@@ -1,0 +1,3 @@
+The initialization of the repository will be helpful for looking
+at the history of the directory and any possible commits etc.
+You will be able to watch your changes more closely.
