@@ -20,3 +20,11 @@ it easier to understand how they all relate one another.
 Similarly, I visualize branches to reconnect at some
 point in time to the master branch which when you visualize
 can be seen as the tree trunk.
+It lets us compartmentalize the work we've been doing
+on separate branches.
+Manual merging will give you complete autonomy but will prove
+time consuming and monotonous and does not guarantee that
+you will find the code that led to the bug. Automatically
+merging files will give you the visualization you need
+to pinpoint the errors without going on a long search
+and if needed edit the code/fix the bug.
