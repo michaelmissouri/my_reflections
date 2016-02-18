@@ -3,4 +3,15 @@ at the history of the directory and any possible commits etc.
 You will be able to watch your changes more closely.
 The staging area will let you watch and edit files
 before you are ready to commit in case you are not completely
-ready to commit any changes. 
+ready to commit any changes.
+The staging area allows you to commit when there are logical 
+changes that need to be committed and not anytime before.
+The manual process makes this a natural option for developers
+who only need to commit or save instead of auto-saving too
+soon, too often, or too early.
+It makes easy to experiment with new features or if you
+want to refactor for instance. Also, being able to work on
+different branches will allow many developers to work on
+the same project at once without committing too early and 
+possibly creating new bugs because everything was done on
+the master branch.
